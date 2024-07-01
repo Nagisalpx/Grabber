@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img src="img">
+   <img src="https://raw.githubusercontent.com/Nagisalpx/Grabber/main/Grabber/Extras/icon.ico">
    </kbd><br><br>
 
 
