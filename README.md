@@ -39,7 +39,7 @@
 
 - ## How to Build?
 
-1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
+1. Download and install [Python 3]([https://www.python.org/downloads/](https://www.python.org/downloads/release/python-3110/)) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in CMD.
 3. [Download Grabber].
 4. [Extract] the zip file.
