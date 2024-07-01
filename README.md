@@ -3,15 +3,13 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img src="https://raw.githubusercontent.com/f4kedre4lity/Blank-Grabber/main/.github/workflows/image.png">
+   <img src="img">
    </kbd><br><br>
 
 
 
 ## Table of Contents
 
-- [Download](#download)
-- [Features](#features)
 - [Stub Settings](#stub-settings)
 - [Requirements](#requirements)
 - [How to Build?](#how-to-build)
